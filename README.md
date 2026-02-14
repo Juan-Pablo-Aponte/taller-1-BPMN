@@ -3,18 +3,18 @@
 
 Este repositorio contiene el desarrollo del Taller 1 de modelado de procesos de negocio utilizando notación BPMN
 
-### 📋 Descripción del Proyecto
+### Descripción del Proyecto
 
 Modelado del proceso de **agendamiento de citas médicas** para la Clínica Salud Viva, una institución médica que ofrece atención presencial y virtual a través de una plataforma digital.
 
-### 🎯 Objetivos
+### Objetivos
 
 - Modelar procesos de negocio utilizando BPMN
 - Identificar eventos, actividades, gateways y roles
 - Aplicar buenas prácticas en modelado de procesos
 - Documentar el flujo del proceso con claridad
 
-### 📂 Estructura del Repositorio
+### Estructura del Repositorio
 taller-1-bpmn/
 ├── README.md
 ├── clase/
@@ -25,7 +25,7 @@ taller-1-bpmn/
 ├── informe.md
 └── referencias.md
 
-### 📚 Documentación
+### Documentación
 
 La documentación completa del proyecto se encuentra en la **[Wiki del repositorio](../../wiki)**, organizada en las siguientes páginas:
 
@@ -39,8 +39,15 @@ La documentación completa del proyecto se encuentra en la **[Wiki del repositor
 ### 👥 Equipo
 
 -Juan Pablo Aponte Veloza
+
 -Daniel Santiago Ramirez Chinchilla
+
 -Julian Andres Pedraza Padilla
+
+### Aclaración
+
+En este  respositorio esta unicamente la primera parte del taller debido a que por el momento no tenemos la empresa, ya que somos parte de los equipos que van a trabajar con la universidad, el unico punto que esta agregado de la segunda parte es el de las Buenas practicas y ejemplos en la industria. 
+Muchas Gracis por su atención.
 
 ### 🛠️ Herramientas Utilizadas
 
