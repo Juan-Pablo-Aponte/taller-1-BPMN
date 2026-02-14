@@ -47,7 +47,8 @@ La documentación completa del proyecto se encuentra en la **[Wiki del repositor
 ### Aclaración
 
 En este  respositorio esta unicamente la primera parte del taller debido a que por el momento no tenemos la empresa, ya que somos parte de los equipos que van a trabajar con la universidad, el unico punto que esta agregado de la segunda parte es el de las Buenas practicas y ejemplos en la industria. 
-Muchas Gracis por su atención.
+
+Muchas Gracias por su atención.
 
 ### 🛠️ Herramientas Utilizadas
 
