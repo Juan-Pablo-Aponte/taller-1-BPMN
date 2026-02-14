@@ -32,10 +32,9 @@ La documentación completa del proyecto se encuentra en la **[Wiki del repositor
 1. **[Home](../../wiki/Home)** - Introducción y contexto del taller
 2. **[Caso Base: Clínica Salud Viva](../../wiki/Caso-Base)** - Descripción del proceso modelado en clase
 3. **[Análisis del Diagrama BPMN](../../wiki/Analisis-Diagrama)** - Descripción técnica del modelo
-4. **[Elementos BPMN Utilizados](../../wiki/Elementos-BPMN)** - Catálogo de símbolos y su significado
+4. **[Elementos BPMN Utilizados](../../wiki/Elementos-BPMN-Utilizados)** - Catálogo de símbolos y su significado
 5. **[Aplicación al Cliente Real](../../wiki/Cliente-Real)** - Adaptación del modelo al caso específico
-6. **[Buenas Prácticas BPMN](../../wiki/Buenas-Practicas)** - Recomendaciones y estándares
-7. **[Referencias](../../wiki/Referencias)** - Fuentes bibliográficas y recursos
+6. **[Buenas Prácticas BPMN](../../wiki/Buenas-prácticas-BPMN-y-ejemplos-en-la-industria)** - Recomendaciones y estándares
 
 ### 👥 Equipo
 
