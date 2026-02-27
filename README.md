@@ -19,6 +19,7 @@ taller-1-bpmn/
 ├── README.md
 ├── clase/
 │   ├── flujo_citas_medicas_AE.drawio
+│   ├── flujo_caso_universidad.drawio
 │   └── notas.md
 └── entrega/
 ├── modelo-final.drawio
